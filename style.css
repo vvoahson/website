@@ -5,6 +5,8 @@ body{
   background-size: cover;
 }
 .box{
+  position: static;
+  left: 30%
   width: 450px;
   background: rgba(0, 0, 0, 0.4);
   padding: 40px;
