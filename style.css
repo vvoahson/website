@@ -6,7 +6,7 @@ body{
 }
 .box{
   position: static;
-  left: 30%
+  left: 30%;
   width: 450px;
   background: rgba(0, 0, 0, 0.4);
   padding: 40px;
@@ -17,19 +17,16 @@ body{
   font-family: 'Century Gothic',sans-serif;
 }
 .box-img{
-  position: relative;
   border-radius: 50%;
   width: 200px;
   height: 200px;
 }
 .box h1{
-  position: relative;
   font-size: 40px;
   letter-spacing: 4px;
   font-weight: 100;
 }
 .box h5{
-  position: relative;
   font-size: 20px;
   letter-spacing: 3px;
   font-weight: 100;
